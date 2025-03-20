@@ -44,9 +44,9 @@ R:// Predicción para X=6: [12.2]
 En un modelo de regresión lineal, los coeficientes representan la relación entre las variables independientes (X) y la variable dependiente (y).
 
 - **Coeficiente (\(\beta_1\))**: Indica cuánto cambia \(y\) por cada unidad de cambio en \(X\).  
-  - Si \(\beta_1 > 0\): Relación positiva (cuando \(X\) aumenta, \(y\) también).  
-  - Si \(\beta_1 < 0\): Relación negativa (cuando \(X\) aumenta, \(y\) disminuye).  
-  - Si \(\beta_1 = 0\): No hay relación entre \(X\) y \(y\).  
+  - Si \(BETA > 0\): Relación positiva (cuando \(X\) aumenta, \(y\) también).  
+  - Si \(BETA < 0\): Relación negativa (cuando \(X\) aumenta, \(y\) disminuye).  
+  - Si \(BETA = 0\): No hay relación entre \(X\) y \(y\).  
 
 - **Intercepto (\(\beta_0\))**: Es el valor de \(y\) cuando \(X = 0\), es decir, dónde la línea de regresión cruza el eje \(y\).  
 
